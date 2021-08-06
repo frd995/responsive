@@ -13,6 +13,8 @@ body {
     font-family: "thin";
 }
 
+/* Header */
+
 header {
     padding: 15.75px 42px 15.75px 21px;
 }
@@ -56,7 +58,7 @@ img:hover {
     transition: color 0.2s ease-out
 }
 
-
+/* Introduction section */
 
 .centered {
     display: flex;
@@ -112,7 +114,7 @@ img:hover {
     font-size: 24px;
 }
 
-
+/* Section */
 
 .section {
     width: 1057.3px;
@@ -164,7 +166,7 @@ img:hover {
     transition: color 0.2s ease-out
 }
 
-
+/* Footer */
 
 footer {
     display: flex;
